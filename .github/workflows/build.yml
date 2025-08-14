@@ -36,5 +36,5 @@ jobs:
 
        # Run tests
     - name: Run tests
-       run: mvn clean test
+      run: mvn clean test
 
